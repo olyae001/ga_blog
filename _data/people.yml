@@ -1,0 +1,6 @@
+- name: "Mike"
+  occupation: "Teacher"
+- name: "Steve"
+  occupation: "Firefighter"
+- name: "Rob"
+  occupation: "Programmer"

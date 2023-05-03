@@ -1,0 +1,7 @@
+{% for file in site.static_files %}
+{% if file.image%} 
+ <div style="margin-bottom: 20px;">
+    <img src="{{file.path}}" alt="{{file.name}}" width="500" height="300">
+  </div>
+{% endif %}
+{% endfor %}
